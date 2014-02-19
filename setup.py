@@ -6,8 +6,7 @@ setup(
     version=pygeocoder.__version__,
     description='API into the Google Maps geocoder.',
     long_description='\n'.join((
-        open('README.md').read(),
-        open('CHANGES.md').read(),
+        open('README.md').read()
     )),
     author='Steven Ogdahl',
     author_email='steve.ogdahl@vanguardds.com',
